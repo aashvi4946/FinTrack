@@ -1,5 +1,5 @@
 <p style="font-size: 14px; color: #555;">
-  A sleek and modern mobile app to track your expenses and income, built using React Native (Expo) with Clerk authentication, Neon PostgreSQL as the database, and Upstash Redis for rate limiting, along with Deployment using Render for the API.
+  A sleek and modern mobile app to track your expenses and income, built using React Native (Expo) with Clerk authentication, Neon PostgreSQL as the database, and Upstash Redis for rate limiting
 </p>
 
 <table>
